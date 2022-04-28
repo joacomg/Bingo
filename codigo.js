@@ -33,9 +33,6 @@ function Iniciar_Juego(){
             Numero5 : Numeros[o+4]
         };
         Cartones.push(a);
-        app.post('/', (req, res) => {
-            res.send(Cartones)
-        })
     }
 }
 
