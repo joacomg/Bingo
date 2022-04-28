@@ -64,11 +64,3 @@ for (var i = 0; i < Cartones.length; i++) {
         i=0;
     }    
 }
-
-app.use(express.json());
-	
-
-
-app.get("/mi_endpoint", function (req, res) {
-    res.send("respuesta");
-});
