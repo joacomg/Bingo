@@ -1,0 +1,20 @@
+{
+  "name": "bingo",
+  "version": "1.0.0",
+  "description": "\"# Bingo\"",
+  "main": "codigo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joacomg/Bingo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joacomg/Bingo/issues"
+  },
+  "homepage": "https://github.com/joacomg/Bingo#readme"
+}
